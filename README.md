@@ -1,4 +1,5 @@
-Sentiment_Analysis_IMDB_Reviews
+# Sentiment_Analysis_IMDB_Reviews
+
 📊🔍 **Unlocking Insights with Sentiment Analysis in NLP: Enhancing Business Decision-Making**
 In today's data-driven world, sentiment analysis is a crucial tool for decoding public opinions. This project dives deep into movie reviews sourced from IMDB, a treasure trove of user-generated content. By combining cutting-edge techniques like web scraping, text preprocessing, and machine learning, I've developed a robust system that predicts whether a review reflects a positive or negative sentiment. 🚀
 
